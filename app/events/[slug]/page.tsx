@@ -1,3 +1,4 @@
+
 import {Suspense} from "react";
 import EventDetails from "@/components/EventDetails";
 
